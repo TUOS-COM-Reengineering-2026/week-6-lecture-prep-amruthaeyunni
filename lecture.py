@@ -24,6 +24,7 @@ def is_palindrome(s):
         return palindrome
 
         # TODO: How do you check if your fix is correct?
+        # If all the test cases in test_palindrome.py pass, especially the test_palindrome_long() test.
 
 
 # PART 2
